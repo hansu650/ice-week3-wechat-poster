@@ -1,0 +1,255 @@
+{
+  "title": "WeChat: connection, commerce and the cost of overload",
+  "teamLeader": "Tian Qin",
+  "teamMetadataProvenance": "Names, leadership and teacher permission for a four-person group are user-supplied course metadata, not findings from the cited papers.",
+  "authors": [
+    "Tian Qin",
+    "Zhou Ziyue",
+    "Qiaochu Zheng",
+    "Zeng Hongkai"
+  ],
+  "tencent": {
+    "metric": "Combined monthly active user accounts of Weixin and WeChat",
+    "unit": "million accounts",
+    "annual": [
+      {
+        "year": 2021,
+        "value": 1268.2,
+        "source": "Tencent2022"
+      },
+      {
+        "year": 2022,
+        "value": 1313.2,
+        "source": "Tencent2022"
+      },
+      {
+        "year": 2023,
+        "value": 1343,
+        "source": "TencentHKEX2026"
+      },
+      {
+        "year": 2024,
+        "value": 1385,
+        "source": "Tencent2025"
+      },
+      {
+        "year": 2025,
+        "value": 1418,
+        "source": "Tencent2025"
+      }
+    ],
+    "latest": {
+      "date": "30 June 2026",
+      "value": 1439,
+      "source": "TencentInterim2026"
+    },
+    "caveat": "Accounts, not distinct people; Weixin and WeChat combined. Latest interim observation is separate from the year-end series."
+  },
+  "commerce": {
+    "source": "GuoLi2022",
+    "n": 514,
+    "population": "Chinese WeChat shoppers recruited through Sojump; 574 responses, 514 valid questionnaires",
+    "table4Correlations": [
+      {
+        "label": "Utilitarian value",
+        "value": 0.661
+      },
+      {
+        "label": "Hedonic value",
+        "value": 0.584
+      },
+      {
+        "label": "Recommendations",
+        "value": 0.417
+      },
+      {
+        "label": "Feedback",
+        "value": 0.414
+      },
+      {
+        "label": "Interactivity",
+        "value": 0.404
+      }
+    ],
+    "figure2Paths": [
+      {
+        "label": "Utilitarian value",
+        "value": 0.485
+      },
+      {
+        "label": "Hedonic value",
+        "value": 0.284
+      }
+    ],
+    "outcome": "Repurchase intention",
+    "caveat": "Cross-sectional self-report; intention is not observed purchasing. Table 4 r values and Figure 2 standardized beta coefficients are different metrics."
+  },
+  "connection": {
+    "source": "ZhangJung2023",
+    "nT1": 1202,
+    "nT2": 740,
+    "retentionPercent": 61.56,
+    "collection": "January–May 2020; two waves three months apart in China",
+    "paths": [
+      {
+        "label": "Association",
+        "detail": "Likes / comments",
+        "bonding": 0.11,
+        "bondingP": "< .05",
+        "bondingSignificant": true,
+        "bridging": 0.04,
+        "bridgingP": "= .31",
+        "bridgingSignificant": false
+      },
+      {
+        "label": "Private interaction",
+        "detail": "One-to-one exchanges",
+        "bonding": 0.14,
+        "bondingP": "< .01",
+        "bondingSignificant": true,
+        "bridging": 0.07,
+        "bridgingP": "= .12",
+        "bridgingSignificant": false
+      },
+      {
+        "label": "Broadcasting",
+        "detail": "Posting updates",
+        "bonding": 0.01,
+        "bondingP": "= .78",
+        "bondingSignificant": false,
+        "bridging": 0.13,
+        "bridgingP": "< .05",
+        "bridgingSignificant": true
+      },
+      {
+        "label": "Reviewability",
+        "detail": "Revisiting content",
+        "bonding": -0.02,
+        "bondingP": "= .68",
+        "bondingSignificant": false,
+        "bridging": 0.11,
+        "bridgingP": "< .05",
+        "bridgingSignificant": true
+      }
+    ],
+    "caveat": "Standardized cross-lagged model paths; perceived social capital, not contact counts. Observational panel; prior levels and selected covariates do not establish causation. All eight paths shown."
+  },
+  "fatigue": {
+    "source": "LiuEtAl2024",
+    "n": 836,
+    "responses": 862,
+    "collection": "January–February 2024; Credamo online panel of Chinese WeChat users",
+    "stressorPaths": [
+      {
+        "label": "Social comparison",
+        "fatigue": 0.137,
+        "anxiety": 0.19
+      },
+      {
+        "label": "Privacy concern",
+        "fatigue": 0.207,
+        "anxiety": 0.209
+      },
+      {
+        "label": "Information overload",
+        "fatigue": 0.097,
+        "anxiety": 0.228
+      },
+      {
+        "label": "Functional overload",
+        "fatigue": 0.187,
+        "anxiety": 0.221
+      },
+      {
+        "label": "Social overload",
+        "fatigue": 0.301,
+        "anxiety": 0.214
+      }
+    ],
+    "lurkingPaths": [
+      {
+        "label": "Fatigue",
+        "value": 0.291
+      },
+      {
+        "label": "Anxiety",
+        "value": 0.126
+      }
+    ],
+    "hours": [
+      {
+        "label": "< 2 h",
+        "count": 309,
+        "percent": 37
+      },
+      {
+        "label": "2–4 h",
+        "count": 374,
+        "percent": 44.7
+      },
+      {
+        "label": "4–6 h",
+        "count": 105,
+        "percent": 12.6
+      },
+      {
+        "label": "> 6 h",
+        "count": 48,
+        "percent": 5.7
+      }
+    ],
+    "caveat": "Standardized SEM paths, all shown paths p < .01; cross-sectional self-report, not causal effects. Time shares describe this sample only; bin labels follow the original table."
+  },
+  "sources": [
+    {
+      "id": "Tencent2022",
+      "title": "Tencent Holdings Limited, Annual Report 2022",
+      "url": "https://static.www.tencent.com/uploads/2023/04/06/214dce4c5312264800b20cfab64861ba.pdf",
+      "locator": "Operating information, printed p. 4 / PDF p. 5",
+      "local": "Tencent_Annual_Report_2022.pdf"
+    },
+    {
+      "id": "TencentHKEX2026",
+      "title": "Tencent Offering Circular, published 9 June 2026",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0609/2026060900199.pdf",
+      "locator": "Operating information, printed p. 16"
+    },
+    {
+      "id": "Tencent2025",
+      "title": "Tencent Holdings Limited, Annual Report 2025",
+      "url": "https://static.www.tencent.com/uploads/2026/04/09/62d786fcf3d3c8cb7e54791ee95439ac.pdf",
+      "locator": "Operating information, printed p. 4 / PDF p. 5",
+      "local": "Tencent_Annual_Report_2025.pdf"
+    },
+    {
+      "id": "TencentInterim2026",
+      "title": "Tencent Holdings Limited, Interim Report 2026",
+      "url": "https://www.tencent.com/wp-content/uploads/2026/08/E700_IR.pdf",
+      "locator": "Operating information, printed p. 5 / PDF p. 6",
+      "local": "Tencent_Interim_Report_2026.pdf"
+    },
+    {
+      "id": "GuoLi2022",
+      "title": "Guo, J., & Li, L. (2022). Exploring the Relationship Between Social Commerce Features and Consumers’ Repurchase Intentions: The Mediating Role of Perceived Value.",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.775056/full",
+      "doi": "10.3389/fpsyg.2021.775056",
+      "locator": "Table 4 (correlations), Figure 2 (standardized paths), Methods and sample description",
+      "local": "Guo_Li_2022.pdf"
+    },
+    {
+      "id": "ZhangJung2023",
+      "title": "Zhang, L., & Jung, E. H. (2023). Time counts? A two-wave panel study investigating the effects of WeChat affordances on social capital and well-being.",
+      "url": "https://academic.oup.com/jcmc/article/28/1/zmac030/6827860",
+      "doi": "10.1093/jcmc/zmac030",
+      "locator": "Structural model section and Figure 2; Sample and data collection"
+    },
+    {
+      "id": "LiuEtAl2024",
+      "title": "Liu, X., Feng, R., Chen, X., & Yuan, Y. (2024). “Left on read” examining social media users’ lurking behavior: an integration of anxiety and social media fatigue.",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1406895/full",
+      "doi": "10.3389/fpsyg.2024.1406895",
+      "locator": "Table 1 (hours), Section 5.3 / Figure 2 (standardized paths)",
+      "local": "Liu_et_al_2024.pdf"
+    }
+  ]
+}

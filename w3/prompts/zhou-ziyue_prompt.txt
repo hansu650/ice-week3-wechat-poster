@@ -1,0 +1,48 @@
+我是 Zhou Ziyue，负责 ICE W3 微信海报的“购物价值与复购意愿”。Team Leader 始终为 Tian Qin。
+仓库：https://github.com/hansu650/ice-week3-wechat-poster
+工作分支：main，不创建额外分支。
+本人唯一提交目录：w3/contributions/zhou-ziyue/
+任务输出文件基名：02_commerce_value、06_value_model。
+
+一手论文：Guo & Li (2022), Exploring the Relationship Between Social Commerce Features and Consumers' Repurchase Intentions: The Mediating Role of Perceived Value。
+https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.775056/full
+期刊发表年为 2022；DOI 中的 2021 不是引用年。请核对正文 Table 4、Figure 2 和方法部分。
+
+Table 4，与 repurchase intention 的五个非对角线 Pearson correlation r：
+Utilitarian value: 0.661
+Hedonic value: 0.584
+Recommendations: 0.417
+Feedback: 0.414
+Interactivity: 0.404
+主图 02_commerce_value：2320 × 1305，按上述顺序水平柱形图，轴名 correlation coefficient r；右侧分析实用价值、享乐价值、社交功能与购物意愿的关系。
+
+Figure 2，通向 repurchase intention 的两个标准化路径：
+Utilitarian value → repurchase intention: beta = 0.485, p < .001
+Hedonic value → repurchase intention: beta = 0.284, p < .001
+补充图 06_value_model：1500 × 650，两个柱或简洁路径示意，明确 standardized beta，与主图 r 分开。
+
+样本：574 份返回，514 份有效；中国 WeChat 购物者，Sojump 在线问卷，样本主要为 20–39 岁且本科及以上；横断面自报。正文没有报告具体调查日期，不补写。
+必须区分：复购意愿不是实际销量；r 不是 beta；Table 4 对角线 AVE 指标不能当相关系数；数字较大不代表两个系数差异经过显著性检验；相关不证明因果。
+英文分析提出一个有依据但尚待验证的商业建议，例如优先改善实用价值，同时保留研究局限。
+
+视觉与内容规格：
+无需任何参考图片，按以下文字规格从零制作。沿用 W1 的阅读结构，使用 W3 的独立内容和配色。
+主模块：2320 × 1305 SVG；白底，顶部浅桃色标题带高 118。编号 x=55，标题 x=163。左侧放图表，右侧分析从 x=1385 开始，宽 865；竖分隔线 x=1335。
+配色：深蓝 #355A70，陶橙 #BE673F，标题底 #F8EAE1，正文 #294052，次要文字 #667782，网格 #DCE3E7。
+字体 Comic Sans MS；缺失时说明替代字体。正文约 32 px、行距 47；图注约 31/45；来源约 25/38。主模块来源分隔线 y=1195。标题过长时合理换行，不能溢出。
+补充图：1500 × 650，同色系、同字体，顶部标题、中央图表、底部口径和来源，按尺寸调整字号保证可读。
+图内使用英文；每张保留可编辑 SVG、相同尺寸 PNG 和可复现源码/生成说明。来源 URL、单位、统计量、样本和局限应可见。需要的话以确定性绘图代码生成；不能靠图像模型猜数据。
+每个主模块左图右文，右文采用 Result / Meaning / Limitation 三段。给主模块写 120–180 个英文单词；补充图配 40–65 词图注。可适度调整排版，保证文字不重叠、不截断。
+不要生成活动照片。当前小图审核稿留在 Tian Qin 本地；完成的候选图提交在本人目录。最终图由 Tian Qin 审核后挑选并统一整合。
+
+执行与交付：
+1. 先打开上方一手来源，核对相关表格/结果段；打不开时写“待核验”，不要声称已核验。给 source_check.md：原文位置、原值、采用值、统计口径、核对结论和限制。
+2. 给 analysis.md：最终英文分析及简短中文解释，并提出 2 个帮助我理解论文的检查问题。把文献发现和自己的解释/建议分清。
+3. 从零生成本任务规定的图，保存在本人目录的 figures/ 下，附 SVG、PNG、生成源码或可复现说明。检查每个数字、图例、来源、边界和小字。不依赖别人发来的草稿图片。
+4. 给 contribution.md：列实际完成内容、AI 帮助范围、本人确认项和未完成项。没有发生的阅读、讨论、拍照、反馈或评价不能写成已经完成。
+5. 只使用我自己的 GitHub 登录身份。确认本人接受协作者邀请后，在仓库现有 main 上提交本人目录；先拉取最新内容，只暂存本人文件，不使用 git add . 或强制推送。不要创建额外分支、PR，不覆盖他人文件。Tian Qin 可另改实际组长评审文件。
+6. 如果无推送权限或当前工作区有冲突，保留所有成果，明确说明阻碍和下一步；不要替其他人署名或伪造他人的 commit。每次实际修订留具体提交说明。
+7. 返回成果文件清单、可点击 commit 链接、主要结论、本人待确认项。Tian Qin 会审阅提交、提出修改并整合；上传成功本身不代表内容已经被组长接收。
+
+仓库 w3/data/wechat_evidence.json、SOURCE_GUIDE.md、STYLE_GUIDE.md 可作文字/数据补充；本提示词本身已包含完成任务所需的主题、数据和风格，不需要接收草稿图片。
+

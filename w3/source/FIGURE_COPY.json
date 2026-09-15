@@ -1,0 +1,104 @@
+{
+  "platform": {
+    "title": "A LARGE PLATFORM WITH STEADY GROWTH",
+    "chartTitle": "Combined Weixin and WeChat monthly activity",
+    "chartSub": "Year-end observations · million active accounts",
+    "chartHeading": "2021–2025: +149.8 million accounts (+11.8%)",
+    "chartText": "The combined account base increased in every year shown. A zero-based axis keeps the scale visible; the separate growth chart makes annual additions easier to compare. These figures measure platform activity, without showing how attention, income or access is distributed between users.",
+    "sections": [
+      {
+        "heading": "Read the denominator carefully",
+        "text": "Tencent counts accounts active during the previous month, including messaging or activities such as Moments. The series combines Weixin and WeChat; it is not a count of distinct people or of Chinese residents. At 30 June 2026, the separate interim observation reached 1,439 million accounts."
+      },
+      {
+        "heading": "Interpreting platform scale",
+        "text": "For our social and business analysis, scale provides context for potential reach. It does not demonstrate that every business can reach those accounts or that participation benefits everyone. Growth alone cannot measure relationship quality, customer satisfaction or harmful use. The following studies examine more specific outcomes and selected groups."
+      }
+    ],
+    "source": "Sources: Tencent Annual Reports 2022 and 2025, operating information p. 4; June 2026 Offering Circular, p. 16; Interim Report 2026, p. 5. Calculations use reported values and their original precision.",
+    "zhTitle": "平台规模：用户基数很大，但增长不等于人人受益",
+    "zhRead": "先看规模与变化，再看统计口径：折线统计的是微信与 WeChat 合计活跃账号，不是独立人数。2026 年 6 月的数值单独注明，没有混进年末趋势。"
+  },
+  "commerce": {
+    "title": "PERCEIVED VALUE IS LINKED TO REPEAT BUYING INTENT",
+    "chartTitle": "What correlates with repurchase intention?",
+    "chartSub": "514 WeChat shoppers in China · correlation coefficient r",
+    "chartHeading": "Practical value and enjoyment stand out",
+    "chartText": "Utilitarian value describes practical benefits; hedonic value describes enjoyment. Both have larger correlations with repurchase intention than the three social-commerce features shown. This descriptive ordering does not establish that the correlations differ statistically, or that changing a feature will increase purchases.",
+    "sections": [
+      {
+        "heading": "Study design and interpretation",
+        "text": "Guo and Li (2022) analysed 514 valid questionnaires from WeChat shoppers recruited through Sojump. The authors linked interactivity, recommendations and feedback to perceived value, then to repurchase intention. Table 4 provides the five correlations redrawn here. They describe relationships within this sample, rather than experimentally tested effects."
+      },
+      {
+        "heading": "A business implication to test",
+        "text": "Our interpretation is that customer groups should offer useful product information and an enjoyable experience, with clear opportunities for questions and feedback. The evidence does not measure actual repeat sales. Participants were mainly young and university educated; self-reports and the selected sample limit generalisation to all shoppers."
+      }
+    ],
+    "source": "Source: Guo & Li (2022), Frontiers in Psychology, 12:775056, Table 4 and sample description. DOI: 10.3389/fpsyg.2021.775056. Original off-diagonal correlations; no significance markers added.",
+    "zhTitle": "商业影响：有用、愉快的购物体验与复购意愿有关",
+    "zhRead": "这张比较 5 个因素与复购意愿的相关程度。右侧保留研究方法、商业含义与局限；复购意愿不能写成已经发生的订单或营业额。"
+  },
+  "connection": {
+    "title": "DIFFERENT INTERACTIONS RELATE TO DIFFERENT TIES",
+    "chartTitle": "Communication patterns and later social capital",
+    "chartSub": "Two-wave China panel · standardized model coefficient β",
+    "chartHeading": "Close support and broader connections differ",
+    "chartText": "Bonding refers to resources within close ties, such as support and trust. Bridging refers to resources across wider connections, such as diverse perspectives. These are perceived social resources, not counts of friends. Filled markers indicate reported significance; open markers retain the four nonsignificant results.",
+    "sections": [
+      {
+        "heading": "Evidence across two survey waves",
+        "text": "Zhang and Jung (2023) collected data in January–May 2020, with a three-month interval. Valid responses fell from 1,202 at the first wave to 740 at the second, a 61.56% retention rate. Their model related earlier activities to later outcomes while accounting for prior levels and selected covariates."
+      },
+      {
+        "heading": "Use the pattern with care",
+        "text": "Likes, comments and private interaction were positively associated with later bonding; posting and revisiting content were associated with bridging. Our interpretation is that communication goals should guide how a group uses the platform. The observational design and participant loss leave alternative explanations; a nonsignificant result does not prove no relationship."
+      }
+    ],
+    "source": "Source: Zhang & Jung (2023), Journal of Computer-Mediated Communication, 28(1), zmac030; Structural model section and Figure 2. DOI: 10.1093/jcmc/zmac030. All eight focal paths are shown.",
+    "zhTitle": "社会影响：维系熟人与扩展联系，用法并不一样",
+    "zhRead": "蓝色表示熟人之间的支持，橙色表示更广泛联系带来的资源。实心点是论文报告显著的关系；空心点是不显著的关系，不能直接理解为“完全没影响”。"
+  },
+  "fatigue": {
+    "title": "OVERLOAD IS LINKED TO FATIGUE AND ANXIETY",
+    "chartTitle": "Which pressures relate to fatigue and anxiety?",
+    "chartSub": "836 WeChat users in China · standardized model paths β",
+    "sections": [
+      {
+        "heading": "Two outcomes, different patterns",
+        "text": "Liu et al. (2024) surveyed Chinese WeChat users in January–February 2024. Social overload had the largest fatigue coefficient among the five pressures shown; information overload had the largest anxiety coefficient. These rankings describe this model and do not establish statistically significant differences between the coefficients."
+      },
+      {
+        "heading": "Participation can become demanding",
+        "text": "Both fatigue and anxiety were associated with more lurking: observing content without active participation. Our interpretation is to trial quieter group routines, such as clear reply expectations and fewer repeated notices. The study used a single self-report survey, so it cannot show that overload caused lurking or that these proposed routines would help."
+      }
+    ],
+    "source": "Source: Liu, Feng, Chen & Yuan (2024), Frontiers in Psychology, 15:1406895, Section 5.3 and Figure 2. DOI: 10.3389/fpsyg.2024.1406895. All displayed paths: p < .01; no causal effects claimed.",
+    "zhTitle": "负面影响：使用负担与疲劳、焦虑及潜水行为有关",
+    "zhRead": "上面比较 5 类压力与两种感受的关系，下面看疲劳、焦虑与“只看不参与”的关系。图中 β 是模型系数，不是百分比，也不是因果证明。"
+  },
+  "growth": {
+    "title": "GROWTH CONTINUES, BUT ANNUAL ADDITIONS VARY",
+    "sub": "Year-on-year change · million combined active accounts",
+    "caption": "Annual additions equal each year-end value minus the previous year-end value. The increase was 45.0 million in 2022, 29.8 million in 2023, 42.0 million in 2024 and 33.0 million in 2025. This describes net change, without identifying its causes.",
+    "source": "Tencent operating information; same annual observations as Figure 01. Derived differences, not new observations.",
+    "zhTitle": "补充图 A：每年新增多少，变化更直观",
+    "zhRead": "这张把主图的年度净增加量单独画出来。这样既不把纵轴截断夸大波动，也能看出增长并非一年比一年快。"
+  },
+  "value": {
+    "title": "PRACTICAL AND ENJOYMENT VALUE IN ONE MODEL",
+    "sub": "Paths to repurchase intention · standardized coefficient β",
+    "caption": "In Guo and Li’s model, utilitarian value has a numerically larger coefficient than hedonic value; both paths have p < .001. These coefficients differ from the raw correlations in Figure 02. The comparison does not establish a significant difference between paths or an increase in actual sales.",
+    "source": "Guo & Li (2022), Figure 2 and structural model results. DOI: 10.3389/fpsyg.2021.775056.",
+    "zhTitle": "补充图 B：把两种价值放进同一个模型",
+    "zhRead": "与主图的相关系数 r 区分开：这里是模型中的标准化系数 β。数值较大不自动等于两个系数之间的差异通过了统计检验。"
+  },
+  "hours": {
+    "title": "THE FATIGUE STUDY DESCRIBES A PARTICULAR SAMPLE",
+    "sub": "Reported daily WeChat time · 836 respondents · Jan–Feb 2024",
+    "caption": "The 2–4 hour category was the largest in this survey, at 44.7% (374 respondents). These shares describe the fatigue study’s participants, not all WeChat users. They provide sample context and cannot establish a safe time limit or show that time alone caused fatigue.",
+    "source": "Liu et al. (2024), Table 1. Counts and percentages reproduced; category boundaries follow the published labels.",
+    "zhTitle": "补充图 C：论文调查的是什么样的人",
+    "zhRead": "这张用 836 人样本的使用时长提醒读者研究适用范围。它不是全国微信用户画像，也不能用来推算“超过几小时就一定有害”。"
+  }
+}
