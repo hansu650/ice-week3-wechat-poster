@@ -1,15 +1,18 @@
-# W3 reference figure contributions
+# W3 poster and published-data analysis
 
-**Team Leader: Tian Qin**
+**Team Leader: Tian Qin.** Members: Zhou Ziyue, Qiaochu Zheng, Zeng Hongkai.
 
-| Member | Only required file | Reference chart |
-|---|---|---|
-| Zhou Ziyue | contributions/zhou-ziyue/reference_chart.svg | Shopping value and repurchase intention |
-| Qiaochu Zheng | contributions/qiaochu-zheng/reference_chart.svg | Social connections |
-| Zeng Hongkai | contributions/zeng-hongkai/reference_chart.svg | Overload and fatigue |
+## Read the analysis
 
-Use the [short prompts](prompts/ALL_PROMPTS_CN.md). Each person submits one SVG from their own fork through a PR to upstream main. Tian Qin reviews and merges it. No additional files, report or collaborator invitation are required.
+[Report](analysis/report.md) · [Run instructions](analysis/README.md) · [Source data](data/wechat_evidence.json) · [Metric table](analysis/metrics.csv)
 
-The member charts are reference exercises. The final poster uses Tian Qin’s already approved figures. Record actual PR reviews and merge decisions; do not say an unused reference chart appears in the final poster.
+The seven approved poster modules cover platform scale, shopping value, social connections, overload/fatigue/anxiety, annual growth, perceived-value model paths and the fatigue-study sample's daily time. Each interpretation stays within its source population and statistical scope.
 
-The final poster is English, follows the W1 header/layout with a new palette, and will use credited real context photos. Actual group photographs and the GitHub QR code will be added later.
+## Current production stage
+
+The all-English full-poster review draft uses the W1 header and layout, the new palette and four licensed context photographs. Three spaces are reserved for actual team-activity photographs. The final QR code and individual portfolio work are deferred.
+
+## Uploads and contributions
+
+Tian Qin handles repository uploads centrally. Members no longer need to make forks or PRs. Old prompts are historical reference material, not outstanding assignments. AI assistance and actual participant contributions must be attributed accurately; a central upload alone does not establish who performed the underlying work.
+

@@ -1,3 +1,7 @@
+# 已归档：旧版组员作图和 PR 提示词
+
+最新安排由 Tian Qin 统一上传，组员不再需要执行以下任务。见 [最新协作指南](../TEAM_GUIDE_CN.md)。以下仅保留历史参考。
+
 # 每人一张参考图、一个 SVG、一个 PR
 
 最终海报使用 Tian Qin 已审核的图。三位组员独立完成参考图并提交 PR，保留真实贡献记录；不要求采用参考图。
@@ -49,4 +53,5 @@
 
 用我自己的 GitHub 账号 Fork 仓库，把这个 SVG 提交到我的 Fork，再向 hansu650/ice-week3-wechat-poster 的 main 发一个 Ready for review 的 PR，返回链接。只交这个 SVG，不需要邀请协作者，不生成其他文件，不合并 PR。这是参考图，最终海报由 Tian Qin 使用他已审核的图整合。不能操作 GitHub 时，把 SVG 给我并说明最短上传步骤。
 ```
+
 

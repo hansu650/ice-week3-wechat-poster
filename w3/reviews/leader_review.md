@@ -1,9 +1,8 @@
-# Team Leader review log
+# Actual review notes — pending
 
-Leader: Tian Qin.
+Team Leader: Tian Qin. Repository uploads are handled centrally.
 
-Complete this table after reviewing real member PRs.
-
-| Member | PR | Point checked | Actual feedback | Revision / merge | Decision |
+| Actual date | Figure or source checked | Participants | Concrete feedback | Resulting change or decision | Evidence link |
 |---|---|---|---|---|---|
 
+Add entries after the activity. This empty table is a template, not evidence that a review happened.

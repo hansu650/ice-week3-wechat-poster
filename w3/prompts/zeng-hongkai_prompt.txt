@@ -1,3 +1,5 @@
+已归档：此提示词已被“由 Tian Qin 统一上传”的安排替代，无需成员执行。以下保留历史内容。
+
 我是 Zeng Hongkai。请帮我为 W3 小组作业做一张参考图，并提交一次 PR。
 仓库：https://github.com/hansu650/ice-week3-wechat-poster
 只提交一个文件：w3/contributions/zeng-hongkai/reference_chart.svg
@@ -9,4 +11,5 @@
 图脚写作者 Zeng Hongkai 和 Team Leader: Tian Qin。
 
 用我自己的 GitHub 账号 Fork 仓库，把这个 SVG 提交到我的 Fork，再向 hansu650/ice-week3-wechat-poster 的 main 发一个 Ready for review 的 PR，返回链接。只交这个 SVG，不需要邀请协作者，不生成其他文件，不合并 PR。这是参考图，最终海报由 Tian Qin 使用他已审核的图整合。不能操作 GitHub 时，把 SVG 给我并说明最短上传步骤。
+
 

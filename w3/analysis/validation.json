@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "Annual observations are consecutive year-end years",
+      "passed": true
+    },
+    {
+      "name": "All annual account totals are finite and positive",
+      "passed": true
+    },
+    {
+      "name": "Annual differences sum to total change",
+      "passed": true
+    },
+    {
+      "name": "Commerce coefficients use correlation bounds",
+      "passed": true
+    },
+    {
+      "name": "All eight social-capital paths are present",
+      "passed": true
+    },
+    {
+      "name": "All four reported nonsignificant paths retained",
+      "passed": true
+    },
+    {
+      "name": "Two-wave retention matches reported rounding",
+      "passed": true
+    },
+    {
+      "name": "Daily-time counts total the survey sample",
+      "passed": true
+    },
+    {
+      "name": "Daily-time shares match reported one-decimal rounding",
+      "passed": true
+    },
+    {
+      "name": "Daily-time shares total 100 percent",
+      "passed": true
+    }
+  ],
+  "rows": 49,
+  "inputSha256": "96b6b0945e9626c7eaed14c19d616d4d4673f70860e3bc8ace6a5c731be34c3f"
+}

@@ -1,3 +1,3 @@
 # Tian Qin — Team Leader
 
-Tian Qin leads topic selection, source standards, member reference-chart review and PR merging, and final poster integration using his approved figures. Record actual feedback and merge decisions. Reference contributions and the final poster remain in progress.
+Tian Qin coordinates topic scope, design decisions, source standards, member communication and final integration. Repository uploads are handled centrally. The initial published-data analysis and visual preparation are AI-assisted. Specific real group-review decisions and activity photographs will be added after the activity.

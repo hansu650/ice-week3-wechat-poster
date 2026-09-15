@@ -1,7 +1,5 @@
 # Qiaochu Zheng
 
-Status: reference figure assigned; participant work not yet submitted.
+Team member. Tian Qin manages repository uploads centrally; no member fork or PR is required. Specific completed contributions have not yet been recorded. Any later source check, discussion or revision will be described after actual participation is confirmed.
 
-Only deliverable: reference_chart.svg. Use the supplied [short figure prompt](../../prompts/qiaochu-zheng_prompt.txt), submit the SVG to your own fork, and open one PR to upstream main. No collaborator invitation or extra files are required.
-
-This is a reference exercise. Tian Qin reviews and merges the contribution; the final poster uses his approved figure set.
+The earlier reference-chart prompt is archived and is no longer an outstanding assignment.

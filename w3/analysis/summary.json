@@ -1,0 +1,248 @@
+{
+  "evidenceType": "Published aggregate data with secondary descriptive arithmetic; no new survey or participant-level re-estimation.",
+  "inputSha256": "96b6b0945e9626c7eaed14c19d616d4d4673f70860e3bc8ace6a5c731be34c3f",
+  "annual": [
+    {
+      "year": 2021,
+      "value": 1268.2,
+      "source": "Tencent2022"
+    },
+    {
+      "year": 2022,
+      "value": 1313.2,
+      "source": "Tencent2022",
+      "netAdditionMillion": 45,
+      "yearOnYearPercent": 3.55
+    },
+    {
+      "year": 2023,
+      "value": 1343,
+      "source": "TencentHKEX2026",
+      "netAdditionMillion": 29.8,
+      "yearOnYearPercent": 2.27
+    },
+    {
+      "year": 2024,
+      "value": 1385,
+      "source": "Tencent2025",
+      "netAdditionMillion": 42,
+      "yearOnYearPercent": 3.13
+    },
+    {
+      "year": 2025,
+      "value": 1418,
+      "source": "Tencent2025",
+      "netAdditionMillion": 33,
+      "yearOnYearPercent": 2.38
+    }
+  ],
+  "totalChange": {
+    "startYear": 2021,
+    "endYear": 2025,
+    "millionAccounts": 149.8,
+    "percent": 11.81
+  },
+  "separateInterimSnapshot": {
+    "date": "30 June 2026",
+    "value": 1439,
+    "source": "TencentInterim2026"
+  },
+  "commerce": {
+    "n": 514,
+    "correlations": [
+      {
+        "label": "Utilitarian value",
+        "value": 0.661
+      },
+      {
+        "label": "Hedonic value",
+        "value": 0.584
+      },
+      {
+        "label": "Recommendations",
+        "value": 0.417
+      },
+      {
+        "label": "Feedback",
+        "value": 0.414
+      },
+      {
+        "label": "Interactivity",
+        "value": 0.404
+      }
+    ],
+    "standardizedModelPaths": [
+      {
+        "label": "Utilitarian value",
+        "value": 0.485
+      },
+      {
+        "label": "Hedonic value",
+        "value": 0.284
+      }
+    ]
+  },
+  "socialConnections": {
+    "nT1": 1202,
+    "nT2": 740,
+    "retentionPercent": 61.56,
+    "paths": [
+      {
+        "label": "Association",
+        "detail": "Likes / comments",
+        "bonding": 0.11,
+        "bondingP": "< .05",
+        "bondingSignificant": true,
+        "bridging": 0.04,
+        "bridgingP": "= .31",
+        "bridgingSignificant": false
+      },
+      {
+        "label": "Private interaction",
+        "detail": "One-to-one exchanges",
+        "bonding": 0.14,
+        "bondingP": "< .01",
+        "bondingSignificant": true,
+        "bridging": 0.07,
+        "bridgingP": "= .12",
+        "bridgingSignificant": false
+      },
+      {
+        "label": "Broadcasting",
+        "detail": "Posting updates",
+        "bonding": 0.01,
+        "bondingP": "= .78",
+        "bondingSignificant": false,
+        "bridging": 0.13,
+        "bridgingP": "< .05",
+        "bridgingSignificant": true
+      },
+      {
+        "label": "Reviewability",
+        "detail": "Revisiting content",
+        "bonding": -0.02,
+        "bondingP": "= .68",
+        "bondingSignificant": false,
+        "bridging": 0.11,
+        "bridgingP": "< .05",
+        "bridgingSignificant": true
+      }
+    ],
+    "nonsignificantPaths": 4
+  },
+  "overload": {
+    "n": 836,
+    "stressorPaths": [
+      {
+        "label": "Social comparison",
+        "fatigue": 0.137,
+        "anxiety": 0.19
+      },
+      {
+        "label": "Privacy concern",
+        "fatigue": 0.207,
+        "anxiety": 0.209
+      },
+      {
+        "label": "Information overload",
+        "fatigue": 0.097,
+        "anxiety": 0.228
+      },
+      {
+        "label": "Functional overload",
+        "fatigue": 0.187,
+        "anxiety": 0.221
+      },
+      {
+        "label": "Social overload",
+        "fatigue": 0.301,
+        "anxiety": 0.214
+      }
+    ],
+    "lurkingPaths": [
+      {
+        "label": "Fatigue",
+        "value": 0.291
+      },
+      {
+        "label": "Anxiety",
+        "value": 0.126
+      }
+    ],
+    "dailyTime": [
+      {
+        "label": "< 2 h",
+        "count": 309,
+        "percent": 37
+      },
+      {
+        "label": "2–4 h",
+        "count": 374,
+        "percent": 44.7
+      },
+      {
+        "label": "4–6 h",
+        "count": 105,
+        "percent": 12.6
+      },
+      {
+        "label": "> 6 h",
+        "count": 48,
+        "percent": 5.7
+      }
+    ]
+  },
+  "validation": [
+    {
+      "name": "Annual observations are consecutive year-end years",
+      "passed": true
+    },
+    {
+      "name": "All annual account totals are finite and positive",
+      "passed": true
+    },
+    {
+      "name": "Annual differences sum to total change",
+      "passed": true
+    },
+    {
+      "name": "Commerce coefficients use correlation bounds",
+      "passed": true
+    },
+    {
+      "name": "All eight social-capital paths are present",
+      "passed": true
+    },
+    {
+      "name": "All four reported nonsignificant paths retained",
+      "passed": true
+    },
+    {
+      "name": "Two-wave retention matches reported rounding",
+      "passed": true
+    },
+    {
+      "name": "Daily-time counts total the survey sample",
+      "passed": true
+    },
+    {
+      "name": "Daily-time shares match reported one-decimal rounding",
+      "passed": true
+    },
+    {
+      "name": "Daily-time shares total 100 percent",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "Accounts are not unique people.",
+    "The interim observation is separate from year-end comparisons.",
+    "Correlation r and standardized beta are different statistics.",
+    "Coefficient ranks do not test differences between coefficients.",
+    "Reported significance is transcribed, not recomputed.",
+    "Study samples and metrics are not pooled.",
+    "Intention is not observed sales.",
+    "Observational studies do not establish causation.",
+    "Survey time categories do not establish a safe-use threshold."
+  ]
+}
