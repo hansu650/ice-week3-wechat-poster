@@ -6,7 +6,7 @@
 
 [Report](analysis/report.md) · [Run instructions](analysis/README.md) · [Source data](data/wechat_evidence.json) · [Metric table](analysis/metrics.csv)
 
-The seven approved poster modules cover platform scale, shopping value, social connections, overload/fatigue/anxiety, annual growth, perceived-value model paths and the fatigue-study sample's daily time. Each interpretation stays within its source population and statistical scope.
+The seven poster modules cover platform scale, shopping value, social connections, overload/fatigue/anxiety, annual growth, perceived-value model paths and the fatigue-study sample's daily time. The supplementary row uses a waterfall, path diagram and ring chart. Each interpretation stays within its source population and statistical scope. The revised visual layout and prose await Tian Qin's review.
 
 ## Current production stage
 

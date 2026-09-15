@@ -18,5 +18,5 @@ The analysis reproduces published aggregate values and calculates annual account
 
 Tian Qin coordinates the work and handles repository uploads centrally. Members do not need to fork this repository or submit PRs. Earlier prompts are archived reference material; the current arrangement is described in the [team guide](w3/TEAM_GUIDE_CN.md).
 
-The English poster draft follows the W1 header/layout with a new deep-blue and terracotta palette, seven approved figure modules and four credited real context photos. Tian Qin is reviewing the full draft locally. Real group photographs and the final QR code are pending. Individual contributions are recorded only after actual participation is confirmed.
+The English poster draft follows the W1 header/layout with a new deep-blue and terracotta palette, seven evidence-based figure modules and four credited real context photos. Its supplementary row uses a growth waterfall, selected-model-path diagram and sample-composition ring. Tian Qin is reviewing the revised full draft locally. Real group photographs and the final QR code are pending. Individual contributions are recorded only after actual participation is confirmed.
 
