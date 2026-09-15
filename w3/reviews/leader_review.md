@@ -1,16 +1,9 @@
 # Team Leader review log
 
-Reviewer: Tian Qin. Status: awaiting participant submissions.
+Leader: Tian Qin.
 
-After each actual review, record:
-- Actual date:
-- Contributor:
-- Commit URL:
-- Source/value checked:
-- Specific issue or reason for acceptance:
-- Feedback given:
-- Follow-up commit:
-- Recheck outcome:
-- Integration decision:
+Complete this table after reviewing real member PRs.
 
-No participant submission or review is claimed before it happens.
+| Member | PR | Point checked | Actual feedback | Revision / merge | Decision |
+|---|---|---|---|---|---|
+

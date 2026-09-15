@@ -27,10 +27,10 @@
 
 ## GitHub 留什么
 
-1. 每人自己的 commit 链接，能追到修改文件。
+1. 每人自己的 PR / merge 链接，能追到修改文件。
 2. commit 的文件差异，能看出改了哪张图或哪段文字。
 3. Tian Qin 的具体评审和成员后续修改。
-4. 复查后的 commit 链接与最终文件。
+4. 复查后的 PR / merge 链接与最终文件。
 
 截图保留仓库名、提交标题、日期和有意义的差异。链接与截图一起保存更方便追溯。
 原照片和含私人信息的材料先保存在本地；公开仓库只放同意公开的版本。
@@ -44,3 +44,5 @@ GitHub: “I checked [source/table], revised [file], and submitted commit [link]
 Leadership: “As Team Leader, Tian Qin reviewed [commit link], requested [actual correction], and integrated [change] on [actual date].”
 
 方括号填真实发生的内容；未完成就继续保留待做标记。
+
+

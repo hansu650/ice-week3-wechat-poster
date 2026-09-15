@@ -1,44 +1,12 @@
-我是 Qiaochu Zheng，负责 ICE W3 微信海报的“交流方式与社会联系”。Team Leader 始终为 Tian Qin。
+我是 Qiaochu Zheng。请帮我为 W3 小组作业做一张参考图，并提交一次 PR。
 仓库：https://github.com/hansu650/ice-week3-wechat-poster
-工作分支：main，不创建额外分支。
-本人唯一提交目录：w3/contributions/qiaochu-zheng/
-任务输出文件基名：03_social_connections。
+只提交一个文件：w3/contributions/qiaochu-zheng/reference_chart.svg
 
-一手论文：Zhang & Jung (2023)，Journal of Computer-Mediated Communication 28(1), zmac030。
-https://academic.oup.com/jcmc/article/28/1/zmac030/6827860
-请从原页面确认完整题名。卷期年 2023，在线发表于 2022 年；阅读 Structural model 段、Figure 2 和方法部分。
+标题：WeChat: Social Connections
+风格：全英文，16:9（1600×900），白底、浅桃色标题条，深蓝 #355A70＋陶橙 #BE673F，Comic Sans MS 或 Arial。左边图表，右边两三句说明，简洁清楚即可。
+画英文分组点图，数据为 standardized beta，顺序 Bonding / Bridging：Likes and comments 0.11 / 0.04 NS；Private interaction 0.14 / 0.07 NS；Posting 0.01 NS / 0.13；Reviewing content -0.02 NS / 0.11。全部8个点都保留，NS用空心点。写清 Bonding=close-tie support，Bridging=wider-network resources，n=740，不能证明因果。
+来源：https://academic.oup.com/jcmc/article/28/1/zmac030/6827860
+图脚写作者 Qiaochu Zheng 和 Team Leader: Tian Qin。
 
-标准化路径 beta（每行依次为 bonding / bridging）：
-Association（点赞、评论）：0.11, p < .05 / 0.04, p = .31
-Private/dyadic interaction（私聊）：0.14, p < .01 / 0.07, p = .12
-Broadcasting（发帖）：0.01, p = .78 / 0.13, p < .05
-Reviewability（回看内容）：−0.02, p = .68 / 0.11, p < .05
-
-主图 03_social_connections：2320 × 1305，分组点图或水平系数图，4 种使用方式 × 2 类社会资本，包含负数。bonding 深蓝、bridging 橙色；显著路径实心，不显著路径空心并写 NS。保留全部 8 个系数及 4 个不显著结果，图例清楚。
-Bonding 指紧密关系带来的信任/支持；bridging 指更广网络带来的信息/观点等资源，不是好友数量。
-
-研究是中国 WeChat 用户两轮面板调查，2020 年 1–5 月，间隔约 3 个月；T1 有效 1202，T2 留存 740，61.56%。模型考虑先前水平和所选协变量；仍是观察性证据，存在样本流失和自报限制。
-英文分析需要解释：不同使用方式与不同社会资源相关；NS 不是证明完全无关系；不要写“多发帖必然增加朋友”。
-用具体结果支持一个社会层面的解释或待检验建议，避免空泛的“微信使生活更好”。
-
-视觉与内容规格：
-无需任何参考图片，按以下文字规格从零制作。沿用 W1 的阅读结构，使用 W3 的独立内容和配色。
-主模块：2320 × 1305 SVG；白底，顶部浅桃色标题带高 118。编号 x=55，标题 x=163。左侧放图表，右侧分析从 x=1385 开始，宽 865；竖分隔线 x=1335。
-配色：深蓝 #355A70，陶橙 #BE673F，标题底 #F8EAE1，正文 #294052，次要文字 #667782，网格 #DCE3E7。
-字体 Comic Sans MS；缺失时说明替代字体。正文约 32 px、行距 47；图注约 31/45；来源约 25/38。主模块来源分隔线 y=1195。标题过长时合理换行，不能溢出。
-补充图：1500 × 650，同色系、同字体，顶部标题、中央图表、底部口径和来源，按尺寸调整字号保证可读。
-图内使用英文；每张保留可编辑 SVG、相同尺寸 PNG 和可复现源码/生成说明。来源 URL、单位、统计量、样本和局限应可见。需要的话以确定性绘图代码生成；不能靠图像模型猜数据。
-每个主模块左图右文，右文采用 Result / Meaning / Limitation 三段。给主模块写 120–180 个英文单词；补充图配 40–65 词图注。可适度调整排版，保证文字不重叠、不截断。
-不要生成活动照片。当前小图审核稿留在 Tian Qin 本地；完成的候选图提交在本人目录。最终图由 Tian Qin 审核后挑选并统一整合。
-
-执行与交付：
-1. 先打开上方一手来源，核对相关表格/结果段；打不开时写“待核验”，不要声称已核验。给 source_check.md：原文位置、原值、采用值、统计口径、核对结论和限制。
-2. 给 analysis.md：最终英文分析及简短中文解释，并提出 2 个帮助我理解论文的检查问题。把文献发现和自己的解释/建议分清。
-3. 从零生成本任务规定的图，保存在本人目录的 figures/ 下，附 SVG、PNG、生成源码或可复现说明。检查每个数字、图例、来源、边界和小字。不依赖别人发来的草稿图片。
-4. 给 contribution.md：列实际完成内容、AI 帮助范围、本人确认项和未完成项。没有发生的阅读、讨论、拍照、反馈或评价不能写成已经完成。
-5. 只使用我自己的 GitHub 登录身份。确认本人接受协作者邀请后，在仓库现有 main 上提交本人目录；先拉取最新内容，只暂存本人文件，不使用 git add . 或强制推送。不要创建额外分支、PR，不覆盖他人文件。Tian Qin 可另改实际组长评审文件。
-6. 如果无推送权限或当前工作区有冲突，保留所有成果，明确说明阻碍和下一步；不要替其他人署名或伪造他人的 commit。每次实际修订留具体提交说明。
-7. 返回成果文件清单、可点击 commit 链接、主要结论、本人待确认项。Tian Qin 会审阅提交、提出修改并整合；上传成功本身不代表内容已经被组长接收。
-
-仓库 w3/data/wechat_evidence.json、SOURCE_GUIDE.md、STYLE_GUIDE.md 可作文字/数据补充；本提示词本身已包含完成任务所需的主题、数据和风格，不需要接收草稿图片。
+用我自己的 GitHub 账号 Fork 仓库，把这个 SVG 提交到我的 Fork，再向 hansu650/ice-week3-wechat-poster 的 main 发一个 Ready for review 的 PR，返回链接。只交这个 SVG，不需要邀请协作者，不生成其他文件，不合并 PR。这是参考图，最终海报由 Tian Qin 使用他已审核的图整合。不能操作 GitHub 时，把 SVG 给我并说明最短上传步骤。
 

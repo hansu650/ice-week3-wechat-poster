@@ -1,5 +1,3 @@
-# Accepted final figures
+# Final poster figures
 
-This directory intentionally contains no images at initialization. The current review figures remain local with Tian Qin.
-
-Each member generates candidate figures from their self-contained prompt and submits them under w3/contributions/<name>/figures/. Tian Qin reviews the work, selects the accepted final images, records the source commit and places those final versions here before poster assembly.
+The final poster uses Tian Qin’s approved figure set. It is not distributed in this starter package. Team members create reference_chart.svg exercises under their own contribution directories and submit them through fork-based PRs. Do not move those reference exercises into the final figure set automatically.
