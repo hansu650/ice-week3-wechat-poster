@@ -18,5 +18,11 @@ The analysis reproduces published aggregate values and calculates annual account
 
 Tian Qin coordinates the work and handles repository uploads centrally. Members do not need to fork this repository or submit PRs. Earlier prompts are archived reference material; the current arrangement is described in the [team guide](w3/TEAM_GUIDE_CN.md).
 
-The English poster draft follows the W1 header/layout with a new deep-blue and terracotta palette, seven evidence-based figure modules and four credited real context photos. Its supplementary row uses a growth waterfall, selected-model-path diagram and sample-composition ring. Tian Qin is reviewing the revised full draft locally. Real group photographs and the final QR code are pending. Individual contributions are recorded only after actual participation is confirmed.
+The English poster draft follows the W1 header/layout with a new deep-blue and terracotta palette, seven evidence-based figure modules and four credited real context photos. Its supplementary row uses a growth waterfall, selected-model-path diagram and sample-composition ring. Revision 5 includes this repository's clickable link and an offline QR code, checked from the exported PDF. Tian Qin is reviewing the poster and personal writing locally; three actual group photographs remain pending. Individual contributions are recorded only after actual participation is confirmed.
 
+## Review evidence
+
+- [Team Leader's design directions and resulting revisions](w3/reviews/leader_review.md)
+- [Revision 5 PDF, figure-preservation and QR checks](w3/reviews/revision5_validation.json)
+
+These records distinguish design review and automated artifact checks from the actual group discussion, whose feedback and photographs will be added after it takes place. Final DOCX integration follows the user's writing approval.

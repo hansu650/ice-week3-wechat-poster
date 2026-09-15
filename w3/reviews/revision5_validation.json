@@ -1,0 +1,64 @@
+{
+  "revision": 5,
+  "preparedAt": "2026-09-15T09:48:58.917Z",
+  "status": "For user review; actual activity photographs pending",
+  "pdf": {
+    "filename": "W3_WeChat_Poster_Review_v5.pdf",
+    "bytes": 8443492,
+    "sha256": "2837a564125b14ba286720a2c94cb8808897405fcb03de90feeca270405fee09",
+    "pages": 1
+  },
+  "checks": {
+    "pdf": {
+      "passed": true,
+      "count": 18
+    },
+    "preservation": {
+      "passed": true,
+      "count": 27
+    },
+    "qr": {
+      "passed": true,
+      "target": "https://github.com/hansu650/ice-week3-wechat-poster",
+      "decodedAtWidths": [
+        285,
+        143
+      ]
+    }
+  },
+  "currentModules": [
+    {
+      "id": "platform",
+      "sha256": "6b68e77fccfe713b9d57a7a39e6f5eabab9c757f79359991e268f145d6608194"
+    },
+    {
+      "id": "commerce",
+      "sha256": "5dc2d289c90d08cb27896e77107d063d9ad7a3d17ce07c7037cd5dfd0a7c8ba5"
+    },
+    {
+      "id": "connection",
+      "sha256": "28080a32899c68f5e2fd0e8061e25a58287f9a1c1004361429741f4c04e37629"
+    },
+    {
+      "id": "fatigue",
+      "sha256": "80df03d680d74f536b8b58bc1239f59e50522e86b8c4a2478b31d85ffd38fd8a"
+    },
+    {
+      "id": "growth",
+      "sha256": "90a5ad1b7151f8151ff9e39cc3e143145f91f08f48b3ef98d5c901bb44bcdc64"
+    },
+    {
+      "id": "value",
+      "sha256": "606d7acf178c60aff3865d38b5545fe062111d70570a5027b451f77ffa216ec6"
+    },
+    {
+      "id": "hours",
+      "sha256": "20c86cc696dbe2d668dd04befb1f086a2801af30eb9e8c1f84eec1539424b646"
+    }
+  ],
+  "licensedContextPhotos": 4,
+  "actualGroupPhotos": 0,
+  "pendingGroupPhotoSlots": 3,
+  "userApproval": false,
+  "method": "AI-assisted preparation and automated artifact checks; no new survey or refitted model. Canonical conference gate scripts were unavailable and were not reported as passed."
+}
